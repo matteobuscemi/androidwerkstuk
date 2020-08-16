@@ -7,7 +7,7 @@
         android:icon="@drawable/ic_home"
         />
     <item
-        android:id="@+id/infoFragment"
+        android:id="@+id/infoFragmentTabs"
         android:title="Information"
         android:icon="@drawable/ic_info"
 
